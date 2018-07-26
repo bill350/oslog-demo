@@ -1,0 +1,16 @@
+PODS:
+  - SwiftyBeaver (1.6.0)
+
+DEPENDENCIES:
+  - SwiftyBeaver (~> 1.6.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SwiftyBeaver
+
+SPEC CHECKSUMS:
+  SwiftyBeaver: e45759613e50b522b0e6f53b1f0f14389b45ca34
+
+PODFILE CHECKSUM: a9550801b4a415178086382b4fef1c77726b6f76
+
+COCOAPODS: 1.5.3
